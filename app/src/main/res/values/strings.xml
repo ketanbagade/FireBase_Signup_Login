@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FireBase_Signup_Login</string>
+    <string name="action_sign_in" />
+    <string name="action_sign_in_short" />
+    <string name="prompt_password" />
+    <string name="prompt_email" />
+</resources>
